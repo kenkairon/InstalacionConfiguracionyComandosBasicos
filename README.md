@@ -1,5 +1,7 @@
 # **Ejercicio**: Configura Git y crea tu primer repositorio local
-
+| Autor            | Fecha        | Día |
+|------------------|--------------|----------|
+| **Carlos Vásquez** |04 Noviembre 2025 | 2 |
 ## Ejercicio práctico para aplicar los conceptos aprendidos.
 
 ### Instalación
