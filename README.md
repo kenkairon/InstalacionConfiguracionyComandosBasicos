@@ -40,3 +40,7 @@ git commit -m "Initial commit: Agregar README básico"
 git log --oneline
 ```
 
+### Quiz Comandos Básicos
+
+![Evidencia de la prueba](images/QuizComandosBasico.png)
+
